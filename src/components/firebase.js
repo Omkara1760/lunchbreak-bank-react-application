@@ -2,7 +2,7 @@ import firebase from "firebase";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-          
+//           Add your firebase key object here
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
