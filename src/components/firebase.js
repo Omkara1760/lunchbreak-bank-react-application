@@ -2,12 +2,7 @@ import firebase from "firebase";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-          apiKey: "AIzaSyCyi3i_vEoFEGfMiny9pU5aLZhTVKUIgxw",
-  authDomain: "my-mini-bank.firebaseapp.com",
-  projectId: "my-mini-bank",
-  storageBucket: "my-mini-bank.appspot.com",
-  messagingSenderId: "336308583429",
-  appId: "1:336308583429:web:19a0b1675f1f839689706c"
+          
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
